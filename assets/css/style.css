@@ -77,6 +77,10 @@ button {
   outline: none;
 }
 
+button {
+  cursor: pointer;
+}
+
 h1,
 h2,
 h3,
@@ -246,6 +250,10 @@ body.dark-theme {
 }
 
 /* Show Menu */
+
+.nav__menu {
+  top: -100%;
+}
 
 .show-menu {
   top: 0;
@@ -914,5 +922,3 @@ body.dark-theme {
   transition: color 0.4s;
   cursor: pointer;
 }
-
-

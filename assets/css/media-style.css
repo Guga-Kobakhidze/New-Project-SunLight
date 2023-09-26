@@ -21,7 +21,6 @@
   .nav__menu {
     position: fixed;
     left: 0;
-    top: -100%;
     background-color: var(--body-color);
     width: 100%;
     padding-block: 4rem;
